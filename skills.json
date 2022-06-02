@@ -1,22 +1,25 @@
-1. HTTP
-2. JSON, XML
-3. API через Postman (JS, автотесты API).
-4. Снятие и чтение логов c внешнего сервера
-5. Снифинг http web трафика через Charles и Fiddler.
-6. Dev Tools веб браузеров
-7. VPN
-8. Мобильное тестирование
-9. iOS, Android, гайдлайны
-10. Сборка iOS приложений на XCode
-11. Сборка Android приложений на Android Studio.
-12. ADB
-13. прокси и vpn на iOS и Android.
-14. Charles и Fiddler на iOS и Android.
-15. (terminal) Linux
-16. Основы bash скриптинг, автоматизация рутинных задач
-17. SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).
-18. Postgres
-19. Redis
-20. Нагрузочное тестирование в Jmeter.
-21. Scrum
-22. Python
+{
+"Skills":
+["1": " HTTP",
+"2": "JSON_XML",
+"3": "API через Postman (JS, автотесты API)",
+"4": "Снятие и чтение логов c внешнего сервера",
+"5": "Снифинг http web трафика через Charles и Fiddler",
+"6": "Dev Tools веб браузеров",
+"7": "VPN",
+"8": "Мобильное тестирование",
+"9": "iOS, Android, гайдлайны",
+"10": "Сборка iOS приложений на XCode",
+"11": "Сборка Android приложений на Android Studio",
+"12": "ADB",
+"13": "прокси и vpn на iOS и Android.",
+"14": "Charles и Fiddler на iOS и Android.",
+"15": "terminal Linux",
+"16": "Основы bash скриптинг, автоматизация рутинных задач",
+"17": "SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
+"18": "Postgres",
+"19": "Redis",
+"20": "Нагрузочное тестирование в Jmeter",
+"21": "Scrum"
+"22": "Python"]
+}
